@@ -1,2 +1,14 @@
 # focusayx-notes
-HTML page archive and documentation
+
+静态页面记录中心
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
